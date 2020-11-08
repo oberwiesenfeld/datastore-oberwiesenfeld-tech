@@ -14,7 +14,7 @@
 
 * general test run (flashers, brake light)
 * no head lamp turned on
-* temperature about 20+ degree centigrade
+* temperature about 20+ degrees centigrade
 
 ![voltage/2020_07_12_bmw_r27_voltage_chart_driving.jpg](voltage/2020_07_12_bmw_r27_voltage_chart_driving.jpg)
 
@@ -23,6 +23,18 @@
 
 * general test run (flashers, brake light) 
 * parking light turned on during drive
-* temperature about 9 degree centigrade
+* temperature about 9 degrees centigrade
 
 ![voltage/2020_10_18_bmw_r27_voltage_chart_driving.jpg](voltage/2020_10_18_bmw_r27_voltage_chart_driving.jpg)
+
+
+### [voltage/2020_11_08_bmw_r27_voltage_chart_driving.csv](voltage/2020_11_08_bmw_r27_voltage_chart_driving.csv)
+
+* general test run (flashers, brake light) 
+* parking and main head light turned on during drive
+* temperature about 10 degrees centigrade
+
+![voltage/2020_11_08_bmw_r27_voltage_chart_driving.jpg](voltage/2020_11_08_bmw_r27_voltage_chart_driving.jpg)
+
+
+
