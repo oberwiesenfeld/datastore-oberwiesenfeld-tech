@@ -37,4 +37,10 @@
 ![voltage/2020_11_08_bmw_r27_voltage_chart_driving.jpg](voltage/2020_11_08_bmw_r27_voltage_chart_driving.jpg)
 
 
+### [voltage/2021_03_31_bmw_r27_voltage_chart_driving.csv](voltage/2021_03_31_bmw_r27_voltage_chart_driving.csv)
 
+* general test run after rebuild of generator (flashers, brake light, front parking light)
+* temperature about 22 degrees centigrade
+* new ignition coil
+
+![voltage/2021_03_31_bmw_r27_voltage_chart_driving.jpg](voltage/2021_03_31_bmw_r27_voltage_chart_driving.jpg)
