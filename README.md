@@ -44,3 +44,10 @@
 * new ignition coil
 
 ![voltage/2021_03_31_bmw_r27_voltage_chart_driving.jpg](voltage/2021_03_31_bmw_r27_voltage_chart_driving.jpg)
+
+### [voltage/2021_07_22_bmw_r27_voltage_chart_driving.csv](voltage/2021_07_22_bmw_r27_voltage_chart_driving.csv)
+
+* sunset test run (main head lamp 6V/35W turned on, flashers 6V/18W, rear brake light 6V/21W)
+* temperature about 20 degrees centigrade
+
+![voltage/2021_07_22_bmw_r27_voltage_chart_driving.jpg](voltage/2021_07_22_bmw_r27_voltage_chart_driving.jpg)
