@@ -1,0 +1,35 @@
+{
+  "motorcycles": [
+    {
+      "name": "BMW R39",
+      "baujahr": "1925-1927",
+      "motor": {
+        "interner_name": "M40",
+        "typ": "Viertakt, Einzylinder stehend",
+        "bohrung": "68 mm",
+        "hub": "68 mm",
+        "leistung": "6,5 PS bei 4500 U/min",
+        "verdichtung": "6,0 : 1",
+        "ventile": "ohv",
+        "gemischaufbereitung": "Vergaser BMW Spezial 20mm",
+        "oelpumpe": "Zahnradpumpe"
+      },
+      "kraftuebertragung": {
+        "kupplung": "Einscheiben, trocken",
+        "ganganzahl": "3",
+        "schaltung": "Handschaltung",
+        "getriebeuebersetzungen": [
+          6,
+          9.28,
+          13.7
+        ],
+        "hinterradantrieb": "1:2,64",
+        "verhaeltnis_kegel_tellerrad": "14/37 Zähne"
+      }
+    }
+  ],
+  "sources": [
+    "BMW-Mobile-Tradition (1997). BMW Profile, Motorräder aus München 1923-1969, 2. Auflage 1998, BMW Best. Nr. 01 09 0 035 252",
+    "Croucher, Robert (1982). Die Story der BMW Motorräder. Stuttgart. Motorbuch Verlag, 5. Auflage 1992, ISBN 3-87943-972-9"
+  ]
+}
