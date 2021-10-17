@@ -5,9 +5,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Aggregate file
-        run: date +%s > vehicle/all.txt
-      - name: Commit report
+      - name: Build Vehicle Data Set
+        run: |
+          ls -l vehicle/r*json > vehicle/motorcycles.json
+      - name: Commit Vehicle Data Set
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'

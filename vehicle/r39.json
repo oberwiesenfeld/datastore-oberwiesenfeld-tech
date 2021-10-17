@@ -1,0 +1,79 @@
+{
+  "motorcycle": {
+    "name": "BMW R39",
+    "baujahr": "1925-1927",
+    "motor": {
+      "name": "M40",
+      "typ": "Viertakt, Einzylinder stehend",
+      "bohrung": "68 mm",
+      "hub": "68 mm",
+      "hubraum_kubik_cm": "247",
+      "leistung": "6,5 PS bei 4500 U/min",
+      "verdichtung": "6,0 : 1",
+      "ventile": "ohv",
+      "gemischaufbereitung": "Vergaser BMW Spezial 20mm",
+      "motorschmierung": "Druckumlaufschmierung",
+      "oelpumpe": "Zahnradpumpe"
+    },
+    "kraftuebertragung": {
+      "kupplung": "Einscheiben, trocken",
+      "ganganzahl": "3",
+      "schaltung": "Handschaltung",
+      "getriebeuebersetzungen": [
+        6,
+        9.28,
+        13.7
+      ],
+      "hinterradantrieb": "1:2,64",
+      "verhaeltnis_kegel_tellerrad": "14/37 Zähne"
+    },
+    "elektrik": {
+      "zuendung": "Bosch-Magnetzünder",
+      "lichtmaschine": "Bosch-Zündlichtmaschine Type G111 6V/15W",
+      "zuendkerze": [
+        "Bosch W175"
+      ]
+    },
+    "fahrwerk": {
+      "name": "R39",
+      "rahmen": "Doppelschleifen Rohrrahmen",
+      "vorderradfederung": "Blattfeder 4 Federblätter",
+      "hinterradfederung": "ohne/starr",
+      "vorderrad": {
+        "felge": "27 x 3,5 Typ CC 1",
+        "bereifung": [
+          "27 x 3,5 Ballon",
+          "26 x 3 Hochdruckreifen"
+        ],
+        "bremsen": "Innenbackenbremse Trommelbremse Durchmesser 150mm"
+      },
+      "hinterrad": {
+        "felge": "27 x 3,5 Typ CC 1",
+        "bereifung": [
+          "27 x 3,5 Ballon",
+          "26 x 3 Hochdruckreifen"
+        ],
+        "bremsen": "Außenbackenbremse am Getriebe wirkend auf Kardanwelle"
+      },
+      "metriken": {
+        "laenge": "2050 mm",
+        "breite": "800 mm",
+        "hoehe": "950 mm",
+        "tankinhalt": "10 l",
+        "leergewicht": "110 kg",
+        "ca_kraftstoff_verbrauch_pro_100km": "2,5 l",
+        "ca_oel_verbrauch_pro_1000km": "1 l - 2 l",
+        "max_geschwindigkeit_km_pro_h": "100",
+        "produktions_stueckzahl": "855",
+        "preis": {
+          "wert": "1870,00",
+          "waehrung": "RM"
+        }
+      }
+    }
+  },
+  "sources": [
+    "BMW-Mobile-Tradition (1997). BMW Profile, Motorräder aus München 1923-1969, 2. Auflage 1998, BMW Best. Nr. 01 09 0 035 252",
+    "Croucher, Robert (1982). Die Story der BMW Motorräder. Stuttgart. Motorbuch Verlag, 5. Auflage 1992, ISBN 3-87943-972-9"
+  ]
+}
