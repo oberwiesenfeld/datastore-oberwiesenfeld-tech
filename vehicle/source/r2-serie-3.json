@@ -1,0 +1,79 @@
+{
+  "motorcycle": {
+    "name": "BMW R2 Serie 3",
+    "baujahr": "1934",
+    "motor": {
+      "name": "M67 S III",
+      "typ": "Viertakt, Einzylinder stehend",
+      "bohrung": "63 mm",
+      "hub": "64 mm",
+      "hubraum_kubik_cm": "198",
+      "leistung": "6,0 PS bei 3500 U/min",
+      "verdichtung": "6,7 : 1",
+      "ventile": "ohv",
+      "gemischaufbereitung": "Amal Einschieber Vergaser 18,2 mm",
+      "motorschmierung": "Druckumlaufschmierung",
+      "oelpumpe": "Zahnradpumpe"
+    },
+    "kraftuebertragung": {
+      "kupplung": "Einscheiben, trocken",
+      "ganganzahl": "3",
+      "schaltung": "Handschaltung",
+      "getriebeuebersetzungen": [
+        2.89,
+        1.7,
+        1
+      ],
+      "hinterradantrieb": "1:6,75",
+      "verhaeltnis_kegel_tellerrad": "8/54 Zähne"
+    },
+    "elektrik": {
+      "zuendung": "Batteriezündung",
+      "lichtmaschine": "Bosch 6V 30W gekapselt",
+      "zuendkerze": [
+        "Bosch W175",
+        "Bosch 200 G 24"
+      ]
+    },
+    "fahrwerk": {
+      "name": "F 67 S III",
+      "rahmen": "Preßstahl Doppelrahmen",
+      "vorderradfederung": "Auslegefeder 9 Blätter ab 01.06.1933 mit Stoßdämpfer",
+      "hinterradfederung": "ohne/starr",
+      "vorderrad": {
+        "felge": "25 x 3",
+        "bereifung": [
+          "25 x 3"
+        ],
+        "bremsen": "Trommelbremse Durchmesser 180mm"
+      },
+      "hinterrad": {
+        "felge": "25 x 3",
+        "bereifung": [
+          "25 x 3"
+        ],
+        "bremsen": "Trommelbremse Durchmesser 180mm"
+      },
+      "metriken": {
+        "laenge": "1950 mm",
+        "breite": "850 mm",
+        "hoehe": "950 mm",
+        "tankinhalt": "11 l",
+        "leergewicht": "130 kg",
+        "belastung": "200 kg",
+        "ca_kraftstoff_verbrauch_pro_100km": "2,75 l",
+        "ca_oel_verbrauch_pro_1000km": "1 l - 2 l",
+        "max_geschwindigkeit_km_pro_h": "95",
+        "produktions_stueckzahl": "2077",
+        "preis": {
+          "wert": "850,00",
+          "waehrung": "RM"
+        }
+      }
+    },
+    "sources": [
+      "BMW-Mobile-Tradition (1997). BMW Profile, Motorräder aus München 1923-1969, 2. Auflage 1998, BMW Best. Nr. 01 09 0 035 252",
+      "Croucher, Robert (1982). Die Story der BMW Motorräder. Stuttgart. Motorbuch Verlag, 5. Auflage 1992, ISBN 3-87943-972-9"
+    ]
+  }
+}
