@@ -18,7 +18,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           set +e
           git status | grep modified
-          if [ $? eq 0 ]
+          if [ $? -eq 0 ]
           then
             git add --all
             git commit -am "Build Vehicle Data Set `date`"
