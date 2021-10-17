@@ -16,6 +16,13 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git commit -am "Build Vehicle Data Set `date`"
-          git push
+          set +e
+          git status | grep modified
+          if [ $? eq 0 ]
+          then
+            git add --all
+            git commit -am "Build Vehicle Data Set `date`"
+            git push
+          else
+            echo "No updates for the vehicle data store"
+          fi
