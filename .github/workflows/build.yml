@@ -1,4 +1,4 @@
-name: Push commit
+name: Build Vehicle Data Set
 on: push
 jobs:
   report:
