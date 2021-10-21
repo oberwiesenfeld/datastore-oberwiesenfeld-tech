@@ -1,3 +1,4 @@
+[![Build Vehicle Data Set](https://github.com/oberwiesenfeld/datastore-oberwiesenfeld-tech/actions/workflows/build.yml/badge.svg)](https://github.com/oberwiesenfeld/datastore-oberwiesenfeld-tech/actions/workflows/build.yml)
 # Datastore
 ## Data Collections for Engine 226/2
 ### Generator Type
