@@ -52,3 +52,11 @@
 * temperature about 20 degrees centigrade
 
 ![voltage/2021_07_22_bmw_r27_voltage_chart_driving.jpg](voltage/2021_07_22_bmw_r27_voltage_chart_driving.jpg)
+
+### [voltage/2022_09_24_bmw_r27_voltage_chart_driving.csv](voltage/2022_09_24_bmw_r27_voltage_chart_driving.csv)
+
+* about 90km test run (main head lamp 6V/35W always on, flashers 6V/18W, rear brake light 6V/21W)
+* temperature about 15 degrees centigrade
+* 14:55:13 technical stop cause of closed petrol tap
+
+![voltage/2022_09_24_bmw_r27_voltage_chart_driving.jpg](voltage/2022_09_24_bmw_r27_voltage_chart_driving.jpg)
