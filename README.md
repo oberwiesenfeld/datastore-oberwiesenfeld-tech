@@ -3,6 +3,10 @@
 ## Data Collections for Engine 226/2
 ### Generator Type
 * Bosch LJ CJE 60/6/1800 R 5
+### Battery Type
+* 01214, 6N11A-4
+* Size 120mm x 60mm x 130mm
+* 6V/12 Ah 
 
 ### [voltage/2020_06_06_bmw_r27_voltage_chart_start_and_load.csv](voltage/2020_06_06_bmw_r27_voltage_chart_start_and_load.csv)
 
